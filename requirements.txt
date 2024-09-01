@@ -3,3 +3,5 @@ pandas
 yfinance
 datetime
 pandas_datareader
+plotly
+numpy
